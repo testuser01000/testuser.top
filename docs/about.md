@@ -8,11 +8,9 @@ title: 关于本站点
 
 通过 Cloudflare 加速
 
-主题： just-the-docs
+主题: just-the-docs
 
-2026/3/14 更新
-
-将域名改为来自Spaceship的.top域名
+2026/3/14更新: 将域名改为来自Spaceship的.top域名
 
 ## 参考内容：
 - [Github Pages官网](https://pages.github.com/)
