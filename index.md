@@ -12,7 +12,7 @@ nav_exclude: true
 
 是铸币
 
-<p align="center"><img src="assets/img/profile/!!.png" width="100"/></p>
+<p align="center"><img src="assets/img/profile/!!.gif" width="100"/></p>
 
 ## 联系方式
 
