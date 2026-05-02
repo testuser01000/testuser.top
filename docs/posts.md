@@ -1,7 +1,7 @@
 ---
-title: 文章
+title: 归档
 ---
 
-## 文章
+## 历史文章
 
 - 2025/9/13 [TicWatch Pro X 资料整理](tic_review.md)

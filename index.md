@@ -1,23 +1,14 @@
 ---
 layout: default
-title: Ciallo～(∠・ω< )⌒★
+title:  
 nav_exclude: true
 ---
 
-# 欢迎来到我的空间OWO
+# testuser 的 blog
 
-嘻嘻
-
-## 关于我自己
-
-是铸币
+Hello!
 
 <p align="center"><img src="assets/img/profile/yummy.png" width="100"/></p>
 
-## 联系方式
-
-QQ : 2287283963
-
-osu! : [testuser](https://osu.ppy.sh/users/31860102) 
-
-ysepan : [testuser的避难所](http://testuser.ysepan.com)
+## 文章
+- 2025/9/13 [TicWatch Pro X 资料整理](tic_review.md)

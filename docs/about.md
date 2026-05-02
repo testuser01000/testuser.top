@@ -1,8 +1,11 @@
 ---
-title: 关于本站点
+title: About me
 ---
+## 是铸币
 
-# 关于本站点
+<p align="center"><img src="/assets/img/profile/yummy.png" width="233"/></p>
+
+## 关于本站点
 
 使用 Github Pages 搭建
 
@@ -10,7 +13,11 @@ title: 关于本站点
 
 主题: just-the-docs
 
-2026/3/14更新: 将域名改为来自Spaceship的.top域名
+2026/3/14 更新: 将域名改为来自Spaceship的.top域名
+
+## 友情链接
+
+- [theinspired](https://theinspired.top/)(这是铸币)
 
 ## 参考内容：
 - [Github Pages官网](https://pages.github.com/)
