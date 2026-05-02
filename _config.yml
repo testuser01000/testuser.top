@@ -10,10 +10,28 @@ title: "testuser的空间"
 logo: "/assets/img/profile/!!.png"
 
 footer_content: |
-    <a href="https://osu.ppy.sh/users/31860102" target="_blank">
-    <img src="assets/img/profile/osu.svg" width="24" style="filter: invert(1);">
+footer_content: |
+  <div style="display: flex; gap: 18px; align-items: center; justify-content: flex-start;">
+    <!-- osu! -->
+    <a href="https://osu.ppy.sh/users/testuser" target="_blank">
+      <img src="/assets/img/profile/osu.svg" width="24" style="filter: invert(1);">
+    </a>
+    
+    <!-- GitHub -->
+    <a href="https://github.com/testuser01000" target="_blank">
+      <img src="/assets/img/profile/github.svg" width="24" style="filter: invert(1);">
     </a>
 
+    <!-- QQ -->
+    <a href="https://qm.qq.com/q/Pa3HU6QSAK" target="_blank">
+      <img src="/assets/img/profile/qq.svg" width="24" style="filter: invert(1);">
+    </a>
+
+    <!-- ysepan -->
+    <a href="http://testuser.ysepan.com" target="_blank">
+      <img src="/assets/img/profile/dropbox.svg" width="24" style="filter: invert(1);">
+    </a>
+  </div>
 hide_site_footer: false
 
 favicon: "/favicon.ico"
