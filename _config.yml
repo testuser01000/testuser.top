@@ -10,10 +10,9 @@ title: "Ciallo～(∠・ω< )⌒★"
 logo: "/assets/img/profile/yummy.png"
 
 footer_content: |
-footer_content: |
   <div style="display: flex; gap: 18px; align-items: center; justify-content: flex-start;">
     <!-- osu! -->
-    <a href="https://osu.ppy.sh/users/testuser" target="_blank">
+    <a href="https://osu.ppy.sh/users/31860102" target="_blank">
       <img src="/assets/img/profile/osu.svg" width="24" style="filter: invert(1);">
     </a>
     

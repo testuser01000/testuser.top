@@ -1,9 +1,9 @@
 ---
-title: About me
+title: Player Info
 ---
 ## 是铸币
 
-<p align="center"><img src="/assets/img/profile/yummy.png" width="233"/></p>
+<p align="center"><img src="/assets/img/profile/yummy.png" width="100"/></p>
 
 ## 关于本站点
 
@@ -17,7 +17,7 @@ title: About me
 
 ## 友情链接
 
-- [theinspired](https://theinspired.top/)(这是铸币)
+- <img src="/assets/img/profile/mod.jpg" width="30" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;">[theinspired](https://theinspired.top/) (这是铸币)
 
 ## 参考内容：
 - [Github Pages官网](https://pages.github.com/)
