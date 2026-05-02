@@ -25,11 +25,6 @@ footer_content: |
     <a href="https://qm.qq.com/q/Pa3HU6QSAK" target="_blank">
       <img src="/assets/img/profile/qq.svg" width="24" style="filter: invert(1);">
     </a>
-
-    <!-- ysepan -->
-    <a href="http://testuser.ysepan.com" target="_blank">
-      <img src="/assets/img/profile/dropbox.svg" width="24" style="filter: invert(1);">
-    </a>
   </div>
 hide_site_footer: false
 
