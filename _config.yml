@@ -1,0 +1,16 @@
+# mote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+
+title: "testuser的空间"
+
+logo: "/assets/img/profile/!!.png"
+
+footer_content: "你说你不想在这里！"
+
+hide_site_footer: true
+
+favicon: "/favicon.ico"
