@@ -20,11 +20,6 @@ footer_content: |
     <a href="https://github.com/testuser01000" target="_blank">
       <img src="/assets/img/profile/github.svg" width="24" style="filter: invert(1);">
     </a>
-
-    <!-- QQ -->
-    <a href="https://qm.qq.com/q/Pa3HU6QSAK" target="_blank">
-      <img src="/assets/img/profile/qq.svg" width="24" style="filter: invert(1);">
-    </a>
   </div>
 hide_site_footer: false
 
