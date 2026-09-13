@@ -1,6 +1,6 @@
 ---
 layout: default
-title: .
+title: ★
 nav_exclude: true
 ---
 
@@ -10,5 +10,5 @@ Hello!
 
 <p align="center"><img src="assets/img/profile/yummy.png" width="100"/></p>
 
-## 文章
+## 近期文章
 - 2025/9/13 [TicWatch Pro X 资料整理](docs/tic_review.md)
