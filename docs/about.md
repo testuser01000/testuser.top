@@ -3,7 +3,9 @@ title: 关于我
 ---
 ## 关于我
 
-Hello 我是testuser
+- Hello 我是testuser
+
+<p align="center"><img src="/assets/img/profile/yummy.png" width="100"/></p>
 
 - 其他别称:1+/oneplus/~~太色特尤色~~
 
@@ -19,11 +21,7 @@ Hello 我是testuser
 - 耳机: 水月雨nice buds/水月雨太空漫游2Ultra/雷蛇北海巨妖 X
 - 手表: Amazfit Balance
 
-都是低价设备（）
-
 ## 我的其他联系方式
 
 - QQ: 2287283963
-- 永硕E盘: [testuser.ysepan.com](testuser.ysepan.com) (密码: 1234)
-
-<p align="center"><img src="/assets/img/profile/yummy.png" width="100"/></p>
+- 永硕E盘: [testuser.ysepan.com](https://testuser.ysepan.com) (密码: 1234)
