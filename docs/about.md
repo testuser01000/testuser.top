@@ -5,7 +5,7 @@ title: 关于我
 
 - Hello 我是testuser
 
-<p align="center"><img src="/assets/img/profile/yummy.png" width="100"/></p>
+<p align="center"><img src="/assets/img/profile/yummy.webp" width="100"/></p>
 
 - 其他别称:1+/oneplus/~~太色特尤色~~
 

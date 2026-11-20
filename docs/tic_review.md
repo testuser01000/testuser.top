@@ -10,7 +10,7 @@ nav_exclude: true
 
 实际上原本是写使用体验记录的 但是我不会写 也不想写（）
 
-<p align="center"><img src="/assets/img/tic/2.jpg" width="233"/></p>
+<p align="center"><img src="/assets/img/tic/2.webp" width="233"/></p>
 
 > 头图镇压
 
