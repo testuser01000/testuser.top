@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Ciallo～(∠・ω< )⌒★
 description: testuser 的个人博客
 nav_exclude: true
 ---
