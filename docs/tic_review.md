@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TicWatch Pro X 记录
-description: TicWatch Pro X 资源整理
+description: TicWatch Pro X 资源整理，软件备份，调侃
 image: /assets/img/tic/2.webp
 nav_exclude: true
 last_modified_at: 2026-11-20

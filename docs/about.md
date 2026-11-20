@@ -1,6 +1,6 @@
 ---
 title: 关于我
-description: testuser 的个人信息
+description: testuser 的个人信息，真的会有人看么
 ---
 # 关于我
 

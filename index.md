@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ciallo～(∠・ω< )⌒★
-description: testuser 的个人博客
+description: testuser 的博客，偶尔写点东西，品鉴些电子垃圾。
 nav_exclude: true
 ---
 
