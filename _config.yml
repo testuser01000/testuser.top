@@ -9,8 +9,8 @@ plugins:
 
 color_scheme: dark
 
-title: "testuser 的 blog"
-description: "testuser 的个人博客 Ciallo～(∠・ω< )⌒★"
+title: testuser 的 blog
+description: testuser 的个人博客 Ciallo～(∠・ω< )⌒★
 lang: zh-CN
 url: "https://testuser.top"
 
