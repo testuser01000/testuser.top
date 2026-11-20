@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ★
+title: Ciallo～(∠・ω< )⌒★
+description: testuser 的个人博客
 nav_exclude: true
 ---
 
@@ -8,7 +9,7 @@ nav_exclude: true
 
 Hello!
 
-<p align="center"><img src="assets/img/profile/yummy.png" width="100"/></p>
+<p align="center"><img src="/assets/img/profile/yummy.webp" width="100" height="91" alt="testuser 的头像"></p>
 
 ## 近期文章
 - 2025/9/13 [TicWatch Pro X 资料整理](docs/tic_review.md)

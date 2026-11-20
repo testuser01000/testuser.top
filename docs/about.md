@@ -1,11 +1,12 @@
 ---
 title: 关于我
+description: testuser 的个人信息
 ---
 ## 关于我
 
 - Hello 我是testuser
 
-<p align="center"><img src="/assets/img/profile/yummy.webp" width="100"/></p>
+<p align="center"><img src="/assets/img/profile/yummy.webp" width="100" height="91" alt="testuser 的头像"></p>
 
 - 其他别称:1+/oneplus/~~太色特尤色~~
 
