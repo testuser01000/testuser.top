@@ -12,4 +12,4 @@ Hello!
 <p align="center"><img src="/assets/img/profile/yummy.webp" width="100" height="91" alt="testuser 的头像"></p>
 
 ## 近期文章
-- 2025/9/13 [TicWatch Pro X 资料整理](docs/tic_review.md)
+- 2025/9/13 [TicWatch Pro X 折腾留档](docs/tic_review.md)
