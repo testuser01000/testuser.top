@@ -32,7 +32,7 @@ last_modified_at: 2026-11-23
 
 系统bug也多
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 1px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 3px; flex-wrap: wrap;">
   <img src="/assets/img/tic/0.jpeg" alt="系统版本" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
   <img src="/assets/img/tic/3.jpeg" alt="64位报错 只能安装32位应用" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
   <img src="/assets/img/tic/2.jpeg" alt="表盘神秘显示bug" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
@@ -50,6 +50,8 @@ WearOS工具箱,出门问问,WearOS by Google 国行版等安装包，已留档�
 
 也陪我度过了高中好几个月的晚自习
 
-成也因WearOS，败也因WearOS（2026/1/7 mobvoi(出门问问)发布新表 ticnote watch 但是系统不是WearOS了）
+成也因WearOS，败也因WearOS
+
+2026/1/7 mobvoi 发布新表 ticnote watch 但是系统不是WearOS了
 
 <p align="center"><img src="/assets/img/tic/1.webp" width="233" height="238" alt="还组一辈子wearos乐队么" loading="lazy" decoding="async"></p>
