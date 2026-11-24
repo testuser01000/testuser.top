@@ -9,8 +9,8 @@ description: testuser 的个人信息，真的会有人看么
 <p align="center"><img src="/assets/img/profile/yummy.webp" width="100" height="91" alt="testuser 的头像"></p>
 
 - osu!玩家/fps菜鸡
-- 兴趣:购买电子垃圾/~~玩机~~/玩游戏
-- 其他别称:1+/oneplus/~~太色特尤色~~
+- 兴趣：购买电子垃圾/~~玩机~~/玩游戏
+- 其他别称：1+/oneplus/~~太色特尤色~~
 
 ## 我的其他联系方式
 

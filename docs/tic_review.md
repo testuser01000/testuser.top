@@ -33,12 +33,12 @@ last_modified_at: 2026-11-23
 系统bug也多
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 3px; flex-wrap: wrap;">
-  <img src="/assets/img/tic/0.jpeg" alt="系统版本" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
-  <img src="/assets/img/tic/3.jpeg" alt="64位报错 只能安装32位应用" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
-  <img src="/assets/img/tic/2.jpeg" alt="表盘神秘显示bug" style="width: 31%; min-width: 220px; height: auto;" decoding="async">
+  <img src="/assets/img/tic/0.webp" alt="系统版本" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
+  <img src="/assets/img/tic/3.webp" alt="64位报错 只能安装32位应用" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
+  <img src="/assets/img/tic/2_bug.webp" alt="表盘神秘显示bug" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
 </div>
 
-WearOS工具箱,出门问问,WearOS by Google 国行版等安装包，已留档到我的永硕E盘
+Wear OS工具箱、出门问问、Wear OS by Google 国行版等安装包，已留档到我的永硕E盘
 
 欢迎来我的网盘下载或者上传文件
 
@@ -46,12 +46,12 @@ WearOS工具箱,出门问问,WearOS by Google 国行版等安装包，已留档�
 
 ## 碎碎念
 
-它不是一块出色的全智能表，但是可玩性方面很独一无二，能刷国际版WearOS3还能root 
+它不是一块出色的全智能表，但是可玩性方面很独一无二，能刷国际版WearOS3还能root
 
 也陪我度过了高中好几个月的晚自习
 
-成也因WearOS，败也因WearOS
+成也因Wear OS，败也因Wear OS
 
-2026/1/7 mobvoi 发布新表 ticnote watch 但是系统不是WearOS了
+2026/1/7 mobvoi 发布新表 ticnote watch，但是系统不是Wear OS了
 
 <p align="center"><img src="/assets/img/tic/1.webp" width="233" height="238" alt="还组一辈子wearos乐队么" loading="lazy" decoding="async"></p>
