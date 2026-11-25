@@ -4,7 +4,7 @@ title: TicWatch Pro X 折腾留档
 description: TicWatch Pro X 折腾留档，资源备份，碎碎念
 image: /assets/img/tic/2.webp
 nav_exclude: true
-created_at: 2025-9-13
+created_at: 2025-09-13
 last_modified_at: 2026-11-23
 ---
 
@@ -22,20 +22,17 @@ last_modified_at: 2026-11-23
 
 ## 折腾与留档
 
-表已经出掉了，留个档，顺便记录下当时遇到的问题
+表已经出掉了，留个档，顺便记录下当时遇到的问题。
 
-国行系统无法安装64位应用
-
-国行系统没办法添加国外eSIM，国内eSIM又停止办理了
-
-持久模式切换时有概率让检测记录消失，并且续航没有宣称的那么好
-
-系统bug也多
+- 国行系统无法安装64位应用
+- 国行系统没办法添加国外eSIM，国内eSIM又停止办理了
+- 持久模式切换时有概率让监测记录消失，并且续航没有宣称的那么好
+- 系统bug也多
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 3px; flex-wrap: wrap;">
-  <img src="/assets/img/tic/0.webp" alt="系统版本" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
-  <img src="/assets/img/tic/3.webp" alt="64位报错 只能安装32位应用" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
-  <img src="/assets/img/tic/2_bug.webp" alt="表盘神秘显示bug" width="454" height="454" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
+  <img src="/assets/img/tic/0.webp" alt="系统版本" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
+  <img src="/assets/img/tic/3.webp" alt="64位报错 只能安装32位应用" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
+  <img src="/assets/img/tic/2_bug.webp" alt="表盘神秘显示bug" style="width: 31%; min-width: 220px; height: auto;" loading="lazy" decoding="async">
 </div>
 
 Wear OS工具箱、出门问问、Wear OS by Google 国行版等安装包，已留档到我的永硕E盘
@@ -52,6 +49,6 @@ Wear OS工具箱、出门问问、Wear OS by Google 国行版等安装包，已�
 
 成也因Wear OS，败也因Wear OS
 
-2026/1/7 mobvoi 发布新表 ticnote watch，但是系统不是Wear OS了
+2026/1/7 Mobvoi 发布新表 TicNote Watch，但是系统不是 Wear OS 了
 
 <p align="center"><img src="/assets/img/tic/1.webp" width="233" height="238" alt="还组一辈子wearos乐队么" loading="lazy" decoding="async"></p>
